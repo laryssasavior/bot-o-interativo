@@ -15,5 +15,5 @@ botaoNao.addEventListener("mouseover", function() {
 });
 // Mantém o botão "Sim" fixo
 botaoSim.addEventListener("click", function() {
-    alert("Ótima escolha! Eu te espero no altar");
+    alert("Ótima escolha! Minha chave PIX é o Nº do celular.");
 }) ; // FINAL
