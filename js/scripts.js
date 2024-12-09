@@ -19,5 +19,5 @@ botaoNao.addEventListener("mouseover", function() {
 
 // Adiciona um evento ao botão "Sim" que será acionado quando o mouse passar sobre ele
 botaoSim.addEventListener("mouseover", function() {
-    alert("Ótima escolha! Minha Chave PIX é o Nº do celular!"); // Exibe um alerta confirmando a escolha
+    alert("Ótima escolha! Você já sabe que é o amor da minha vida e meu tipo sanguíneo é A+!"); // Exibe um alerta confirmando a escolha
 });
