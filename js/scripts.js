@@ -18,6 +18,6 @@ botaoNao.addEventListener("mouseover", function() {
 });
 
 // Adiciona um evento ao botão "Sim" que será acionado quando o mouse passar sobre ele
-botaoSim.addEventListener("mouseover", function() {
+botaoSim.addEventListener("click", function() {
     alert("Ótima escolha! Você já sabe que é o amor da minha vida e meu tipo sanguíneo é A+!"); // Exibe um alerta confirmando a escolha
 });
